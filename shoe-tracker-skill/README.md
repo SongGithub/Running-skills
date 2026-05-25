@@ -2,7 +2,18 @@
 
 Auto-track running shoe mileage from Strava photos.
 
-**How it works:** 📸 → 🔍 → 💾 → 🔗
+## Why
+
+Running shoes lose cushioning and support gradually — you don't feel it day to day, but after 500-800km the foam is compressed, the rubber is worn, and injury risk goes up.
+
+Most runners guess their shoe mileage. This skill **removes the guesswork**:
+
+- **Know when to retire** — track exact km per shoe, no more "I think these have 400km"
+- **Catch the sweet spot** — running in shoes at their best (50-300km fresh, 300-600km prime) vs past their prime (600km+)
+- **Rotate intelligently** — see which shoes get used most, balance your rotation
+- **Injury prevention** — worn shoes alter your gait; knowing mileage helps spot patterns before pain starts
+
+**How it works:** 📸 Strava photo → 🔍 AI identifies shoe → 💾 logs km → 🔗 syncs to Garmin Gear
 
 1. You upload a Strava run with a photo of your shoes
 2. Your AI agent identifies the shoe from the photo
