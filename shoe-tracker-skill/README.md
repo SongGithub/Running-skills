@@ -1,30 +1,35 @@
 # shoe-tracker-skill
 
-Auto-track running shoe mileage from Strava photos.
+Track running shoe mileage from Strava photos + get smart recommendations on what to wear.
 
 ## Why
 
-Running shoes lose cushioning and support gradually — you don't feel it day to day, but after 500-800km the foam is compressed, the rubber is worn, and injury risk goes up.
+Running shoes lose cushioning and support gradually — you don't feel it day to day, but after 500-800km the foam is compressed, the rubber is worn, and injury risk goes up. Most runners guess.
 
-Most runners guess their shoe mileage. This skill **removes the guesswork**:
+This skill removes the guesswork with **two superpowers**:
 
-- **Know when to retire** — track exact km per shoe, no more "I think these have 400km"
-- **Catch the sweet spot** — running in shoes at their best (50-300km fresh, 300-600km prime) vs past their prime (600km+)
-- **Rotate intelligently** — see which shoes get used most, balance your rotation
-- **Injury prevention** — worn shoes alter your gait; knowing mileage helps spot patterns before pain starts
+### 📸 Track
+- **Know exactly how many km each shoe has** — no more "I think these have 400km"
+- **Catch the sweet spot** — shoes perform best from 50-350km, start degrading after 400-500km
+- **Injury prevention** — worn shoes alter your gait; tracking mileage catches patterns before pain starts
+- **Auto-sync to Garmin Gear** — Strava photo → record → Garmin, all automatic
 
-**How it works:** 📸 Strava photo → 🔍 AI identifies shoe → 💾 logs km → 🔗 syncs to Garmin Gear
+### 👟 Recommend
+- **Right shoe for the right workout** — max cushion for recovery, speed trainers for intervals, carbon plate for race day
+- **RunRepeat-verified categories** — each shoe classified by lab data, not guesswork
+- **Lifecycle-aware** — won't suggest a 550km shoe for your marathon
 
-1. You upload a Strava run with a photo of your shoes
-2. Your AI agent identifies the shoe from the photo
-3. The distance is recorded to that shoe's log
-4. The shoe is bound to the Garmin activity (so Garmin Gear stays in sync)
+## How It Works
+
+**Track:** 📸 Strava photo → 🔍 AI identifies shoe → 💾 logs km → 🔗 syncs to Garmin Gear
+**Recommend:** 📋 check workout → 📊 check mileage → 🏆 match shoe → 💬 explain why
 
 ## Quick Start
 
 1. Set up Garmin + Strava (see `onboarding.md`)
-2. Fill in your shoes in `reference/SHOE_TRACKING.md`
-3. Run with a shoe photo → ask your agent to track it
+2. Fill in your shoes in `reference/SHOE_TRACKING.md` (include visual IDs + RunRepeat category)
+3. Run with a shoe photo → ask your agent to track
+4. Ask "what should I wear today?" → get a recommendation
 
 ## Requirements
 
@@ -37,8 +42,9 @@ Most runners guess their shoe mileage. This skill **removes the guesswork**:
 
 | File | Purpose |
 |------|---------|
-| `SKILL.md` | AI agent instructions |
+| `SKILL.md` | AI agent instructions (track + recommend) |
+| `reference/SHOE_TRACKING.md` | Shoe visual IDs + RunRepeat categories + recommendation matrix |
 | `scripts/track_shoe.py` | Fetch Strava photos + distances |
 | `scripts/garmin_setup.py` | One-time Garmin login helper |
 | `schema/schema.sql` | SQLite database structure |
-| `reference/SHOE_TEMPLATE.md` | Template for shoe IDs |
+| `onboarding.md` | Step-by-step setup guide |
