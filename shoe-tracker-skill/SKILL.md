@@ -6,7 +6,7 @@ A modular skill for AI agents to automatically record shoe mileage when a runner
 
 **camera 📸 → identify shoe 🔍 → record km 💾 → bind Garmin Gear 🔗**
 
-When the user says something like "帮我记一下这双鞋的公里数" or "add the km to the shoe in the photo":
+When the user says something like "add the km to the shoe in the photo" or "track this shoe's mileage":
 
 1. Fetch latest Strava activity with a photo
 2. Use image analysis to identify the shoe model
@@ -72,7 +72,7 @@ g.add_gear_to_activity(gear_uuid, garmin_activity_id)
 Find the `gear_uuid` via `g.get_gear(user_profile_id)` and match `customMakeModel` to the shoe name.
 
 ### Step 5 — Confirm with user
-"已记录 ✅ 新增Xkm，共XXkm"
+"Recorded ✅ +Xkm, total XXkm"
 
 ## Key Garmin Gear UUIDs (known)
 

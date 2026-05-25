@@ -75,12 +75,12 @@ For each shoe you own:
 Example:
 ```sql
 INSERT INTO shoes (brand, model, color, notes)
-VALUES ('Adidas', 'Adizero EVO SL', '黑/白条纹', 'Garmin UUID: xyz');
+VALUES ('Adidas', 'Adizero EVO SL', 'Black/White stripes', 'Garmin UUID: xyz');
 ```
 
 ## 5. Test
 
-Upload a Strava run with a shoe photo. Ask your agent: "记一下这双鞋的公里数"
+Upload a Strava run with a shoe photo. Ask your agent: "track this shoe's mileage"
 
 If the agent is set up correctly, it should:
 1. Find the photo
