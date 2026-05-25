@@ -42,3 +42,4 @@ Most runners guess their shoe mileage. This skill **removes the guesswork**:
 | `scripts/garmin_setup.py` | One-time Garmin login helper |
 | `schema/schema.sql` | SQLite database structure |
 | `reference/SHOE_TEMPLATE.md` | Template for shoe IDs |
+# credential test
