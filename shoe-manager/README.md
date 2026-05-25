@@ -1,4 +1,4 @@
-# shoe-tracker-skill
+# shoe-manager
 
 Track running shoe mileage from Strava photos + get smart recommendations on what to wear.
 
