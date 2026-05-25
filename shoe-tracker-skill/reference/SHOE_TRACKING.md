@@ -6,15 +6,18 @@
 
 ---
 
-## Shoe Categories (Quick Reference)
+## RunRepeat Verified Classification
 
-| Category | Purpose | Stack | Weight | Best for km |
-|----------|---------|-------|--------|-------------|
-| 🛌 **Recovery/Max Cushion** | Soft, protective, easy miles | High (35mm+) | Heavy | 0-600km |
-| 🏃 **Daily Trainer** | Versatile, do-it-all | Moderate (25-35mm) | Medium | 0-500km |
-| ⚡ **Speed Trainer** | Tempo, intervals, fast easy runs | Moderate-low | Light | 0-400km |
-| 🏁 **Race / Plated** | Race day, PB attempts | High + plate | Light | 0-300km |
-| 🥾 **Trail** | Off-road, dirt, gravel | Varies | Heavy | 0-600km |
+Categories sourced from RunRepeat lab tests. Each shoe classified by what RunRepeat recommends it for.
+
+| # | Shoe | RunRepeat Category | Best For | Key Data |
+|---|------|-------------------|----------|----------|
+| **3** | Saucony Triumph 21 | 🛌 **Max Cushion Daily Trainer** | Recovery, easy miles, long runs | 39.1mm stack, softest of all, 10.5mm drop, heavy |
+| **6** | Saucony Endorphin Pro 4 | 🏁 **Carbon-plated Super Shoe** | Race day (heel strikers), fast long runs | 38.1mm, carbon plate, 71.7% energy return, 9.5mm drop |
+| **10** | ASICS Novablast 5 | 🏃 **Max Cushion Daily Trainer** | Easy runs, occasional tempo, beginners | 40.9mm stack, bouncy FF Blast MAX, 141 SA cushion |
+| **17** | Adidas EVO SL | ⚡ **Lightweight Speed Trainer** | Daily training + faster paces, no plate fun | 147 SA (amazing!), Lightstrike Pro, narrow, no plate |
+| **18** | Saucony Ride 18 | 🏃 **Traditional Daily Trainer** | Slow-moderate paces, reliable everyday | 35mm stack, 141 SA, lightweight upgrade, flexible |
+| **19** | Adidas Adios Pro 4 | 🏁 **Top-tier Super Shoe** | Race day 5K–marathon, best energy return | 36.6mm, **80.4% energy return (highest tested!)**, 8.1mm drop |
 
 ---
 
@@ -23,49 +26,48 @@
 ### 🛌 Recovery / Max Cushion
 *Use for: easy recovery runs, post-long-run shakeout, days when legs are beat*
 
-| # | Shoe | KM | Note | Status |
-|---|------|----|------|--------|
-| 3 | Saucony Triumph 21 | 561km | High mileage, still cushioned | ⚠️ Getting high km |
-| 7 | New Balance 1080 V13 | 470km | Classic max cushion | ⚠️ Getting high km |
-| 10 | ASICS Novablast 5 | 427km | Bouncy but not as plush | ⚠️ High km |
-| 14 | Nike Vomero Plus | 242km | Good km remaining | ✅ |
+| # | Shoe | KM | RunRepeat says | Status |
+|---|------|----|---------------|--------|
+| 3 | Saucony Triumph 21 | 561km | Max cushion, softest sole, not for speed work | ⚠️ 561km — recovery only |
+| 7 | New Balance 1080 V13 | 470km | Classic max cushion daily trainer | ⚠️ 470km — aging |
+| 10 | ASICS Novablast 5 | 427km | Max cushion, bouncy, versatile daily | ⚠️ 427km — aging |
+| 14 | Nike Vomero Plus | 242km | Max cushion Nike trainer (高里程舒适) | ✅ |
 
 ### 🏃 Daily Trainer
 *Use for: easy runs, base building, long runs (Z2)*
 
-| # | Shoe | KM | Note | Status |
-|---|------|----|------|--------|
-| 9 | Adidas SL2 Royal Blue | 310km | Firm, responsive daily trainer | ✅ |
-| 16 | Adidas SL2 Aqua | 60km | Same shoe, different color | ✅ Fresh |
-| 18 | Saucony Ride 18 | 137km | Solid, reliable daily trainer | ✅ |
-| 17 | Adidas EVO SL | 93km | Lightweight daily trainer | ✅ Fresh |
-| 15 | Saucony Endorphin Speed 4 v2 | 74km | Can do daily + speed | ✅ Fresh |
+| # | Shoe | KM | RunRepeat says | Status |
+|---|------|----|---------------|--------|
+| 18 | Saucony Ride 18 | 137km | Reliable, traditional daily trainer | ✅ |
+| 9 | Adidas SL2 Royal Blue | 310km | Firm, responsive, Adizero training lineup | ⚠️ 310km |
+| 16 | Adidas SL2 Aqua | 60km | Same as above, different color | ✅ Fresh |
+| 17 | Adidas EVO SL | 93km | Do-it-all, fast + easy, no plate | ✅ Fresh — versatile |
 
 ### ⚡ Speed Trainer
 *Use for: threshold runs, interval sessions, tempo workouts*
 
-| # | Shoe | KM | Note | Status |
-|---|------|----|------|--------|
-| 8 | New Balance Rebel V4 | 213km | Light, snappy, great for intervals | ✅ |
-| 12 | Adidas Adios 9 | 98km | Classic speed shoe | ✅ Fresh |
-| 13 | 特步 260X 2.0 | 116km | Chinese carbon-plated trainer | ✅ |
-| 11 | ASICS Metaspeed Edge Paris | 169km | Race shoe, but can train in it | ✅ |
+| # | Shoe | KM | RunRepeat says | Status |
+|---|------|----|---------------|--------|
+| 15 | Saucony Endorphin Speed 4 v2 | 74km | Plated speed trainer, faster sibling of Pro | ✅ Fresh |
+| 8 | New Balance Rebel V4 | 213km | Light, snappy, speed day | ✅ |
+| 12 | Adidas Adios 9 | 98km | Classic firm speed shoe | ✅ Fresh |
+| 13 | 特步 260X 2.0 | 116km | Chinese carbon-plated speed trainer | ✅ |
 
 ### 🏁 Race / Carbon Plated
-*Use for: race day, time trials, key workouts at goal pace*
+*Use for: race day, time trials, PB attempts*
 
-| # | Shoe | KM | Note | Status |
-|---|------|----|------|--------|
-| 6 | Saucony Endorphin Pro 4 | 355km | 🏆 Primary race shoe | ⚠️ 355km, nearing race limit |
-| 19 | Adidas Adios Pro 4 | 0km | 🆕 Fresh race shoe | ✅ Brand new |
-| 11 | ASICS Metaspeed Edge Paris | 169km | Also race-eligible | ✅ |
+| # | Shoe | KM | RunRepeat says | Status |
+|---|------|----|---------------|--------|
+| 19 | Adidas Adios Pro 4 | 0km | 🏆 **80.4% energy return (#1 tested)** | ✅ Brand new — race ready |
+| 6 | Saucony Endorphin Pro 4 | 355km | Carbon plate, heel-striker friendly | ⚠️ 355km — still raceable |
+| 11 | ASICS Metaspeed Edge Paris | 169km | ASICS super shoe, carbon plate | ✅ |
 
 ### 🥾 Trail
 *Use for: off-road, gravel paths, trail runs*
 
 | # | Shoe | KM | Note | Status |
 |---|------|----|------|--------|
-| 5 | Saucony Xodus | 101km | Trail shoe | ✅ Fresh |
+| 5 | Saucony Xodus | 101km | Trail only | ✅ Fresh |
 
 ---
 
@@ -75,12 +77,12 @@ Given today's workout, here's what I should recommend:
 
 | Today's run | Best pick | Also good | Avoid |
 |------------|-----------|-----------|-------|
-| **Recovery run** (Z1, tired legs) | Triumph 21, 1080 V13, Vomero Plus | Novablast 5 | Race shoes (Pro 4, Metaspeed) |
-| **Easy run** (Z2, 5-10km) | SL2, Ride 18, EVO SL | Rebel V4, Endorphin Speed 4 | Adios 9 (too firm) |
-| **Long run** (Z2, 12km+) | Novablast 5, Triumph 21, SL2 | Endorphin Speed 4 v2 | Adios 9, Metaspeed |
-| **Tempo/Threshold** (Z4 blocks) | Rebel V4, Adios 9, Endorphin Speed 4 v2 | 260X 2.0, EVO SL | 1080 V13 (too heavy) |
+| **Recovery run** (Z1, tired legs) | Triumph 21, 1080 V13, Vomero Plus | Novablast 5 | Race shoes |
+| **Easy run** (Z2, 5-10km) | Ride 18, EVO SL, SL2 | Endorphin Speed 4 v2 | Adios 9 (too firm) |
+| **Long run** (Z2, 12km+) | Novablast 5, EVO SL, SL2/ride 18 | Endorphin Speed 4 v2 | Adios 9, lightweight racers |
+| **Tempo/Threshold** (Z4 blocks) | Endorphin Speed 4 v2, Rebel V4, Adios 9 | EVO SL, 260X 2.0 | 1080 V13 (too heavy) |
 | **Intervals** (VO2max, track) | Adios 9, Rebel V4, 260X 2.0 | Endorphin Speed 4 v2 | Recovery shoes |
-| **Race day** | Adios Pro 4 🆕, Endorphin Pro 4 | Metaspeed Edge Paris | Daily trainers |
+| **Race day** | **Adios Pro 4 🆕** ← 80.4% energy return! | Endorphin Pro 4, Metaspeed | Daily trainers |
 | **Trail/off-road** | Xodus | — | Road shoes |
 
 ---
