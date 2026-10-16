@@ -16,3 +16,9 @@ tokens.json
 .DS_Store
 __pycache__/
 *.pyc
+
+# Private publication policies, review receipts, credentials and local state
+strava-publishing/policy.json
+strava-publishing/reviews/
+specs/*/local/
+*.review.json

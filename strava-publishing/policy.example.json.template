@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "title": {
+    "required": true,
+    "max_length": 100,
+    "forbidden_patterns": []
+  },
+  "description": {
+    "required": true,
+    "ending": "",
+    "guidance": "Write local, user-specific editorial requirements here."
+  }
+}
